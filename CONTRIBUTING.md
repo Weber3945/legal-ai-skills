@@ -1,3 +1,4 @@
 # CONTRIBUTING.md
 
 Notes and usage details for legal-ai-skills.
+- clarify the setup steps
