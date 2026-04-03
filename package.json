@@ -1,6 +1,6 @@
 {
   "name": "legal-ai-skills",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "Set Up an AI-Powered Full-Service Law Firm in 90 Seconds",
   "main": "src/index.js",
   "scripts": {
